@@ -30,3 +30,5 @@ The purpose of this analysis is to apply machine learning to predict credit risk
 <img src="https://i.ibb.co/CB4Ypc4/6-Easy-ensemble-adaboost-classifier.png" alt="6-Easy-ensemble-adaboost-classifier" border="0">
 
 ## Summary: 
+
+Comparing all 6 models for predicting credit risk, the Easy Ensemble AdaBoost Classifier model shows the best results. This model has the higher accuracy score of 92%, compared with other models. Also, the model has the highest precision score of 7% for high-risk credits which means that 7 out of 100 cases are predicted correct and the highest recall (Sensitivity) score of 91% among all models. The harmonic mean F1 which is a suitable measure of models tested with imbalance datasets represents 14% for high risk. The 14% or 0.14 is close to zero which means that the model it is not successful in predicting high credit risk. 
